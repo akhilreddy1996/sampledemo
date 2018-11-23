@@ -16,4 +16,9 @@ public class MainClass {
 		System.out.println("welcome to git");
 	}
 
+	public void show()
+	{
+		System.out.println("show method impleemntation");
+	}
+	
 }
